@@ -20,3 +20,13 @@ git push: enviar a nova versão para o prepositório(de vez)
 git reflog: ver o histórico de versões 
 
 git reset: voltare para uma versão anterior 
+
+git merge nome_da_branch(nova): integra a nova branch com a branch principal
+
+OBS 1: o git merge sempre é dado na branch principal referenciando o nome da branch com a qual se quer msclar
+
+OBS 2: antes de fazer o merge é preciso fazer o git pull para atualizar a branch master, e depois disso fazer o merge, pois vai mesclar com a branch master já atualizada 
+
+git pull request: fazer um pedido de aprovação do código
+
+touch .gitignore: irá abrir um arquivo que deverão ser colocadas as pastas/arquivos que voce não quer compartilhar
