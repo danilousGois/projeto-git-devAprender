@@ -1,0 +1,20 @@
+git init: Inicializar um repositório remoto 
+
+git checkout: mudaar de branch
+git checkout -b: criar uama nova baranch
+
+git add nome do arquivo: adciona uma arquivo ao stage que está sendo utilizado
+git add .: adiciona todos os arquivos que ainda não foram para o stage
+
+git status: verifica todas as ações que estaõ ocorrendo 
+
+git commit: estabelecer uma nova versão
+git commit -m "mensagem": estabelece uma nova versão atribuindo uma mensagem a ela(mais recomendável)
+
+git pull: atualizar o código do repositório para a sua máquina 
+
+git push: enviar a nova versão para o prepositório(de vez)
+
+git reflog: ver o histórico de versões 
+
+git reset: voltare para uma versão anterior 
