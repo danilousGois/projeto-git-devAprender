@@ -1,7 +1,9 @@
 git init: Inicializar um repositório remoto 
 
 git checkout: mudaar de branch
-git checkout -b: criar uama nova baranch
+git checkout -b / git branch nome-da-branch: criar uama nova baranch
+
+git branch: mostra quais branchs estão disponíveis
 
 git add nome do arquivo: adciona uma arquivo ao stage que está sendo utilizado
 git add .: adiciona todos os arquivos que ainda não foram para o stage
